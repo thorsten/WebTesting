@@ -1,0 +1,16 @@
+{
+  "name": "webtesting",
+  "version": "1.0.0",
+  "description": "WebTesting Example with Jasmine / Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thorsten Rinne <thorsten.rinne@maibornwolff.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7",
+  }
+}
